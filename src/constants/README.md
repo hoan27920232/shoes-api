@@ -1,0 +1,1 @@
+// Folder chua cac bien khong thay doi "const"
